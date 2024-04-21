@@ -1,2 +1,13 @@
 {
-	"type": "minecraft:crafting_shapeless
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"item": "ruinedadventure:sapphire_block"
+		}
+	],
+	"result": {
+		"item": "ruinedadventure:sapphire",
+		"count": 9
+	}
+}
