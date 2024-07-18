@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.ruinedmango.adventure.mixin",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "ruinedadventure.refmap.json",
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+  	"PauseScreenMixin"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"ruinedadventure:sapphire_block",
+		"ruinedadventure:raw_sapphire_block",
+		"ruinedadventure:sapphire_ore",
+		"ruinedadventure:deepslate_sapphire_ore",
+		"ruinedadventure:nether_sapphire_ore",
+		"ruinedadventure:end_stone_sapphire_ore"
+	]
+}

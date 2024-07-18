@@ -5,7 +5,9 @@
   "experience": 0.7,
   "group": "sapphire",
   "ingredient": {
-    "item": "ruinedadventure:raw_sapphire_block"
+    "item": "ruinedadventure:raw_sapphire"
   },
-  "result": "ruinedadventure:sapphire"
+  "result":{
+  	 "id": "ruinedadventure:sapphire"
+  }
 }
